@@ -11,9 +11,11 @@
 </div>
 
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/P_H_M__)
- [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://Outlook.comPedropsn158@hotmail.com)
- <a href="https://www.linkedin.com/in/pedro-henrique-4898861b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <div><ul><h1 class="title">Canais de contato</h1></ul>
+                <a href="https://www.linkedin.com/in/pedro-henrique-4898861b0/" target= "blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+                <a href="https://www.instagram.com/p_h_m__/" target= "blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+                <a href="https://Outlook.comPedropsn158@hotmail.com" target= "blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+            </div>
   
 ### Tecnologias que pretendo já estar utilizando até final de 2022
   
