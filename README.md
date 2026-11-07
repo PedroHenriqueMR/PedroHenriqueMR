@@ -4,4 +4,7 @@ Meu nome e Pedro!!
 🌳 - Logística.
 🌱 - Sistemas de Informação ⚙️
 
-<img src="https://ghstats.dev/api/langs?username=octocat&layout=horizontal_list" alt="Top Languages" />
+<div>
+  <a hredf="https://github.com/PedroHenriqueMR">
+  <img src="https://ghstats.dev/api/langs?username=octocat&layout=horizontal_list" alt="Top Languages" />
+<div>
