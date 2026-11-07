@@ -1,8 +1,20 @@
-Oi😄
+Olá! Veja bem-vindo ao meu GitHub! 👋
+🎓 Sou estudante da área de tecnologia e estou desenvolvendo minhas habilidades em programação e analise de dados.
 
-Meu nome e Pedro!!
+💻 Atualmente, estou estudando lógica de programação, linguagem Python e banco de dados.
 
-🌳 - Logística.
+🚀 Meu objetivo é evoluir na área de desenvolvimento em dados, aprendendo novas tecnologias e criando projetos práticos.
 
-🌱 - Sistemas de Informação ⚙️
-
+🛠️ Tecnologias e ferramentas
+Linguagem Python
+Excel
+📚 Atualmente estudando
+Lógica de programação
+🎯 Objetivos
+Desenvolvedor projetos práticos.
+Melhor minhas habilidades de programação.
+Aprender novas línguas e tecnologias.
+Construir meu portfólio profissional.
+📫 Contato
+LinkedIn: Meu LinkedIn
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/pedro-henrique-4898861b0/)
