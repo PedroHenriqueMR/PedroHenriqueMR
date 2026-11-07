@@ -11,6 +11,11 @@
 - Linguagem Python
 - Excel
 
+  <img 
+    src="https://ghstats.dev/api/card?username=PedroHenriqueMR" 
+    alt="Estatísticas do GitHub"
+/>
+
 ## 📚 Atualmente estudando
 
 - Lógica de programação
