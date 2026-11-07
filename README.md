@@ -11,9 +11,9 @@
 - Linguagem Python
 - Excel
 
-  <img 
-    src="https://ghstats.dev/api/card?username=PedroHenriqueMR" 
-    alt="Estatísticas do GitHub"
+<img 
+    src="https://ghstats.dev/api/langs?username=PedroHenriqueMR" 
+    alt="Minhas linguagens mais utilizadas no GitHub"
 />
 
 ## 📚 Atualmente estudando
